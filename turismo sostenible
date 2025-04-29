@@ -1,0 +1,27 @@
+turismo-sostenible-valledupar-ar/
+│
+├── README.md
+├── LICENCIA.md
+├── .gitignore
+│
+├── /docs
+│   ├── resumen-ejecutivo.md
+│   ├── planteamiento-problema.md
+│   ├── objetivos.md
+│   ├── metodologia.md
+│   ├── marco-teorico.md
+│   ├── desarrollo-prototipo.md
+│   └── evaluacion-impacto.md
+│
+├── /prototipo
+│   ├── /assets (imágenes, modelos 3D, íconos)
+│   ├── /src (código fuente: Unity, Android, Flutter u otro)
+│   └── /ar (código específico de RA: Vuforia, ARCore, etc.)
+│
+├── /tests
+│   └── pruebas-funcionales.md
+│
+└── /extras
+    ├── cronograma.xlsx
+    ├── presupuesto.xlsx
+    └── presentacion.pptx
